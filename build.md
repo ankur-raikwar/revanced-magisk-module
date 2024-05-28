@@ -1,4 +1,5 @@
 Music-Extended: 7.02.51  
+Reddit-Extended: 2024.17.0  
 YouTube-Extended: 19.20.34  
 
 Install [Microg](https://github.com/ankur-raikwar/revanced-magisk-module/raw/main/RevancedMicroG.apk) for non-root YouTube and YT Music APKs  
