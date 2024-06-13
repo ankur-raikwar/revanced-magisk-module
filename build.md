@@ -1,6 +1,6 @@
-Reddit-Extended: 2024.17.0  
-Music-Extended: 7.05.52  
 YouTube-Extended: 19.21.40  
+Music-Extended: 7.05.52  
+Reddit-Extended: 2024.17.0  
 
 Install [Microg](https://github.com/ankur-raikwar/revanced-magisk-module/raw/main/RevancedMicroG.apk) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store
