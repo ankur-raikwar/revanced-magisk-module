@@ -34,6 +34,7 @@ arch = "arm64-v8a"
 
 [YouTube-Extended]
 app-name = "YouTube"
+version = "19.26.42"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
