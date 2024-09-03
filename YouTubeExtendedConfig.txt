@@ -29,10 +29,10 @@
 "hide_shopping_links": false,
 "hide_start_trial_button": false,
 "overlay_button_always_repeat": true,
+"overlay_button_external_downloader": true,
 "remember_playback_speed_last_selected": false,
 "remember_video_quality_last_selected": false,
 "skip_preloaded_buffer": true,
 "skip_preloaded_buffer_toast": false,
-"spoof_client": false,
 "ryd_user_id": "L4f808S85jgn4VztC1ketNOwOkbYvbnCxYsh",
 "sb_enabled": false
