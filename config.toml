@@ -8,8 +8,8 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
-excluded-patches = ""
-included-patches = ""
+arch = "arm64-v8a"
+excluded-patches = "'Custom branding' 'Change header' 'Announcements' 'Spoof app version' 'Wide searchbar' 'Hide timestamp'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -17,7 +17,8 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [Music]
 build-mode = "both"
-arch = "both"
+arch = "arm64-v8a"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
