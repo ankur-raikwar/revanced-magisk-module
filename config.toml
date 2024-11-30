@@ -25,6 +25,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Photos]
 app-name = "Photos"
+build-mode = "both"
 version = "auto"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
