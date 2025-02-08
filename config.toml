@@ -33,7 +33,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Music-Extended]
 app-name = "Music"
-version = "8.02.53"
+version = "8.05.50"
 patches-source = "inotia00/revanced-patches"
 excluded-patches = "'Change start page' 'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Custom header for YouTube Music' 'Enable debug logging' 'Hide account components' 'Restore old style library shelf' 'Spoof app version' 'Translations for YouTube Music'"
 cli-source = "inotia00/revanced-cli"
