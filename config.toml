@@ -57,7 +57,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Reddit-Extended]
 app-name = "Reddit"
-version = "2024.29.0"
+version = "2025.05.1"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
