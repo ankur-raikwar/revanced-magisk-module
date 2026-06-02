@@ -47,3 +47,32 @@ $ git clone https://github.com/ankur-raikwar/revanced-magisk-module
 $ cd revanced-magisk-module
 $ ./build.sh
 ```
+
+## Add the Protection Rule File
+#### We need to create a special configuration file that tells Git to protect your edited file.
+* On your new (root of) repository page, click Add file > Create new file.
+* Name the file exactly: .gitattributes
+* In the file content box, type your target filename followed by merge=ours.
+> For example:
+```console
+config.toml merge=ours
+README.md merge=ours
+```
+#### Activate the Protection Driver using CodeSpaces Terminal
+```console
+$ git config merge.ours.driver true
+```
+
+## Pull Future Updates
+
+#### Connect to the original Template (One-time per template/fork)
+```console
+$ git remote add upstream https://github.com/j-hc/revanced-magisk-module.git
+```
+
+#### Fetch and Merge the Updates (Run these two commands whenever you want to check for and apply updates)
+```console
+$ git fetch upstream
+$ git merge upstream/main --allow-unrelated-histories
+$ git push origin main
+
